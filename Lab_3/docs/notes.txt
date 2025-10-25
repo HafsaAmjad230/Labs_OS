@@ -1,0 +1,2 @@
+There are some important notes for Lab 3
+Remember to follow the directory structure carefully.
